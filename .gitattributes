@@ -1,0 +1,9 @@
+*.md linguist-language=C#
+*.yml linguist-language=Winform
+*.html linguist-language=Winform
+*.js linguist-language=Winform
+*.xml linguist-language=Java
+*.css linguist-language=Winform
+*.sql linguist-language=Winform
+*.uml linguist-language=Winform
+*.cmd linguist-language=Winform
